@@ -1,3 +1,3 @@
 # AICOSS---THU
 
-2024 THU AICOSS Organization
+2024 THU AICOSS 
